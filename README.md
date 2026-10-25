@@ -1,0 +1,1 @@
+   This crash explorer helps users see where crashes have happened in Charlotte. It aims to alert drivers as they approach these locations so they can stay aware, drive carefully, and reduce their risk of an accident.
