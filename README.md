@@ -28,4 +28,4 @@ Sources:
 
 Authoring/Development: 
 
-Used ChatGPT/Codex to debug, refactor, and clean up code; architecture, implementation decisions, tests, and final verification are mine.
+Used ChatGPT and DeepSeek for coding help; architecture, implementation decisions, tests, and final verification are mine.
