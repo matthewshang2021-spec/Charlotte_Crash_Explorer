@@ -1,6 +1,6 @@
 # Charlotte Crash Explorer
 
-This crash explorer helps users see where crashes have happened in Charlotte. It aims to alert drivers as they approach these locations so they can stay aware, drive carefully, and reduce their risk of an accident.
+Charlotte Crash Explorer is a web app that helps people see where crashes have happened in Charlotte, NC. Instead of digging through a spreadsheet of public crash records, users can explore them on a map.
 
 
 
@@ -24,3 +24,8 @@ Sources:
 - https://geocoding.geo.census.gov/geocoder/Geocoding_Services_API.html
 - https://project-osrm.org/docs/v26.4.0/http
 - https://routing.openstreetmap.de/about.html
+
+
+Authoring/Development: 
+
+Used ChatGPT/Codex to debug, refactor, and clean up code; architecture, implementation decisions, tests, and final verification are mine.
